@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.avt.ads.aoa": {
-      "version": "file:Quick Aoa",
+      "version": "file:Quick App Open Ads",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
@@ -66,6 +66,15 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.recorder": {
+      "version": "2.5.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {

@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Sample Scene In Game Build.unity
+    path: Assets/_Developer/Scenes/Sample Scene In Game Build.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/Scenes/Sample Scene In Editor Only.unity
+    path: Assets/_Developer/Scenes/Sample Scene In Editor Only.unity
     guid: e39c2103314d8bf4ba910e63e3ae468c
   m_configObjects: {}
